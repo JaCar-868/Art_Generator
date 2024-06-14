@@ -50,11 +50,8 @@ jupyter notebook Art_Generation_with_Neural_Style_Transfer.ipynb
 ## Examples
 Here are some examples of the results you can achieve with Neural Style Transfer:
 
+![image](https://github.com/JaCar-868/Art_Generator/assets/172214426/9dd6089a-547c-4328-850f-c73fcacea839)
 
-Content Image: Cityscape, Style Image: Starry Night
-
-
-Content Image: Forest, Style Image: The Scream
 
 ## References
 [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) by Gatys et al. (2015)

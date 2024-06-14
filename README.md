@@ -48,7 +48,7 @@ jupyter notebook Art_Generation_with_Neural_Style_Transfer.ipynb
 3. Follow the instructions in the notebook to run the cells and observe the results. You can experiment with different content and style images to create your unique artworks.
 
 ## Examples
-Here are some examples of the results you can achieve with Neural Style Transfer:
+Here is an example of the results you can achieve with Neural Style Transfer:
 
 ![image](https://github.com/JaCar-868/Art_Generator/assets/172214426/9dd6089a-547c-4328-850f-c73fcacea839)
 
